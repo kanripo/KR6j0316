@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:10.472938
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:51
 #+TITLE: 聖多羅菩薩梵讚
 #+PROPERTY: CBETA_ID T20n1107
 #+PROPERTY: ID KR6j0316
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1107
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0316_T_001-0476b> 
 #+PROPERTY: JUAN 1
 ¶
-No.1107[cf.Nos.1105,1106]¶
-
- 聖多羅菩薩梵讚¶
+No. 1107 [cf. Nos. 1105, 1106]¶
+聖多羅菩薩梵讚¶
 ¶
 西天譯經三藏朝散大夫試鴻臚卿¶
 傳法大師臣施護奉　詔譯¶
