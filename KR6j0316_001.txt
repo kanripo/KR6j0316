@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:10.472938
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:51
 #+TITLE: 聖多羅菩薩梵讚
 #+PROPERTY: CBETA_ID T20n1107
 #+PROPERTY: ID KR6j0316
